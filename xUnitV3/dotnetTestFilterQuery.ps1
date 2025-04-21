@@ -1,0 +1,1 @@
+dotnet test -- --filter-query "/(!Contoso.Integration.Tests)"
